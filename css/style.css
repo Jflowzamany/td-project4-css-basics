@@ -1,0 +1,141 @@
+.container{
+    height: 100%;
+
+    width: 100%;
+  }
+
+    
+  .nav-list {
+    background-color: #4D9AAD;
+
+    color: white;
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    justify-content: space-around;
+
+    width:auto;
+
+    padding: 0% 7%
+  }
+
+  .my-logo{
+    width: 45%;
+  }
+
+
+  .profile-info .pic{
+
+    border-radius: 100%;
+
+    width: 250px;
+
+    height: 250px;
+    
+  }
+  
+
+  .flag{
+    width: 30px;
+  }
+
+ 
+  .about-me{
+    padding: 5% 10%;
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    justify-content: space-between;
+
+    background-color: #4D9AAD;
+
+    color: white;
+
+    padding-right: 20%;
+  }
+
+  .the-info{
+    width: 50%;
+  }
+.About-Contant{
+    width: 30%;
+}
+
+  
+  .serviceitems{
+    display: flex;
+
+    flex-wrap: wrap;
+
+    justify-content: space-around;
+  }
+
+  .services{
+    padding: 5%;
+  }
+
+  .services h2 {
+    color: #1DA1F2;
+
+    padding-left: 7%;
+
+    padding-bottom: 3%;
+  }
+  .serviceitems div{
+    background-color: #055052;
+
+    width: 20%;
+
+    color: white;
+
+    border-radius: 10px;
+
+    text-align:center;
+
+  }
+
+  .footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #4D9AAD;
+    text-align: center;
+    padding-top: 4em;
+    padding-bottom: 4em;
+  }
+
+  .footer-text{
+    color: #ffffff;
+
+  }
+  .footer ul{
+    display: flex;
+    list-style: none;
+  }
+  .footer ul li a{
+    text-decoration: none;
+    margin-right: 1em;
+  }
+  .footer p{
+    color: #ffffff;
+  }
+  .footer ul li a img{
+    width: 20px;
+    height: 20px;
+  }
+
+  .profile-info{
+    padding: 5%;
+
+    text-align: center;
+
+    color: #5584AC;
+
+  }
+  
+  
